@@ -6,23 +6,38 @@ This repository contains Gherkin specification files for the functionalities of 
 
 ## Contents
 
-- **Epic 1: Landing Page**
-  - xyz
+- **Epic 1: Register**
+  - Registration and Login process
   
-- **Epic 2: User Authentication and Profile**
-  - xyz
+- **Epic 2: Equipment monitoring**
+  - Equipment status monitoring
 
-- **Epic 3: Features for Agricultural Producers**
-  - xyz
+- **Epic 3: Invoicing**
+  - Invoicing Process Specification
 
-- **Epic 4: Distributor Features**
-  - xyz
+- **Epic 4: Inventory**
+  - Manage of the inventory
 
-- **Epic 5: Application Preferences**
-  - xyz
+- **Epic 5: Equipment Requests**
+  - Process to buy an equipment
 
-- **Epic 6: Backend API**
-  - xyz
+- **Epic 6: Landing Page and Prices**
+  - Features for potential new users
+
+- **Epic 7: Inventory management**
+  - RESTful API interactions to manage the inventory.
+
+- **Epic 8: Fishing machinery management**
+  - RESTful API interactions to manage the fishing machinery.
+
+- **Epic 9: User management**
+  - RESTful API interactions to manage the users.
+
+- **Epic 10: Sales management**
+  - RESTful API interactions to manage sales.
+
+- **Epic 11: Maintenance management**
+  - RESTful API interactions to manage maintenance of the equipments.
 
 ## Usage
 
